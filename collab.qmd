@@ -8,8 +8,6 @@ This is a collaborative Quarto project.
 
 Midhun's section
 This is my contribution to the Quarto project.
-Contributions
-<!-- Student sections will go here -->
 
 Instructor's Section
 This section was added after Student B began work.
