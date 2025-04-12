@@ -6,5 +6,5 @@ format: html
 Introduction
 This is a collaborative Quarto project.
 
-Contributions
-<!-- Student sections will go here -->
+Midhun's section
+This is my contribution to the Quarto project.
